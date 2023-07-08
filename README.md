@@ -22,7 +22,7 @@ p { color: white;}
 <body>
 <h1>2OPTIONS SERVICES</h1>
 <p>Welcome to our website, your ultimate destination for learning retail Forex trading. We understand that starting out in the world of Forex can be overwhelming for beginners, which is why we're here to guide you every step of the way. Our comprehensive resources and expertly crafted courses provide you with the essential knowledge and strategies needed to succeed in Forex trading. From understanding the basics to analyzing market trends, we equip you with the skills to make informed decisions and seize profitable opportunities. Join our community of aspiring traders and embark on your journey to financial independence with Forex trading for beginners.</p>
-<a href="page2.html">Next Page>>>>>>>>>>>>
+<a href="blog1.html">Next Page>>>>>>>>>>>>
 <br>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <br>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
