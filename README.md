@@ -7,6 +7,27 @@
 <meta name="description" content="Unlock the world of Forex trading for beginners with our comprehensive learning platform. Master the art of retail Forex trading and seize financial opportunities. Start your journey today!">
 <meta name="keywords" content="forex trading for beginners, forex trading, beginner's guide">
 <style>
+
+.tab-container {
+  overflow: hidden;
+}
+
+.tab {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  float: left;
+}
+
+.tab:hover { background-color: black;}
+
+.tab-content { display: none;
+               padding: 20px;
+}
+
+.tab-content.show { display: block;}
 body { background-color: black;
         font-family: san-serif;
              margin: 50px;
