@@ -4,19 +4,27 @@ Unlock the world of Forex trading for beginners with our comprehensive learning 
 <html>
 <head><meta charset="utf 1">
 <title>2OPTIONS SERVICES</title>
+<meta name="description" content="Unlock the world of Forex trading for beginners with our comprehensive learning platform. Master the art of retail Forex trading and seize financial opportunities. Start your journey today!">
+<meta name="keywords" content="forex trading for beginners, forex trading, beginner's guide">
 <style>
-body {
-background-color: black;
-margin: 10%;
-font-family: san-serif;}
-h1 {
-text-align: center;
-font-family: serif;
-font-weight: normal;
-font-transform: uppercase;
-color: white;}
-h2 {color: white;}
-p { color: white;}
+body { background-color: black;
+        font-family: san-serif;
+             margin: 50px;
+              color: white; 
+          font-size: 30px; 
+           border: 5px solid white; 
+            margin: 20px;
+            padding: 20px;}
+.justified-paragraphs {
+    text-align: justify;
+  }
+
+img {  margin: 20px 20px;
+             width: 300px;
+          max-width: 90%;
+        height: auto; }
+
+h1 { font-size: 50px;}
 </style>
 </head>
 <body>
