@@ -27,6 +27,24 @@ h1 { font-size: 50px;}
 </style>
 </head>
 <body>
+<div class="tab-container">
+  <button class="tab" onclick="openTab('home')">Home</button>
+  <button class="tab" onclick="openTab('about')">About</button>
+  <button class="tab" onclick="openTab('blog')">Blog</button>
+
+  <div id="home" class="tab-content">
+   this is home page
+  </div>
+
+  <div id="about" class="tab-content">
+    
+this is about page
+  </div>
+
+  <div id="blogs" class="tab-content">
+    this is blogs page
+  </div>
+</div>
 <h1>2OPTIONS SERVICES</h1>
 <p class="justified-paragraphs">Welcome to our website, your ultimate destination for learning retail Forex trading. We understand that starting out in the world of Forex can be overwhelming for beginners, which is why we're here to guide you every step of the way. Our comprehensive resources and expertly crafted courses provide you with the essential knowledge and strategies needed to succeed in Forex trading. From understanding the basics to analyzing market trends, we equip you with the skills to make informed decisions and seize profitable opportunities. Join our community of aspiring traders and embark on your journey to financial independence with Forex trading for beginners.</p>
 <a href="blog1.html">Next Page>>>>>>>>>>>>
