@@ -47,6 +47,12 @@ h1 { font-size: 50px;}
 <div class="tab-container">
   <a href="https://twooptionsservices.github.io/2options/" class="tab">Home</a>
      <a href="blog1.html" class="tab">Blog</a>
+    <a href="about.html" class="tab">About Us</a>
+
+
+  <button class="tab" onclick="openTab('home')">Home</button>
+  <button class="tab" onclick="openTab('about')">About</button>
+  <button class="tab" onclick="openTab('blog')">Blog</button>
 
   <div id="home" class="tab-content">
    this is home page
