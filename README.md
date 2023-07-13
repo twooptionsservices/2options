@@ -8,26 +8,22 @@
 <meta name="keywords" content="forex trading for beginners, forex trading, beginner's guide">
 <style>
 
-.tab-container {
-  overflow: hidden;
-}
+.tab-container { overflow: hidden; }
 
-.tab {
-  background-color: black;
-  border: none;
-  color: white;
-  padding: 10px 20px;
-  cursor: pointer;
-  float: left;
-}
+.tab { background-color: black;
+      border: none;
+       color: white;
+      padding: 10px 20px;
+       cursor: pointer;
+       float: left;}
 
 .tab:hover { background-color: black;}
 
 .tab-content { display: none;
-               padding: 20px;
-}
+               padding: 20px;}
 
 .tab-content.show { display: block;}
+
 body { background-color: black;
         font-family: san-serif;
              margin: 50px;
@@ -49,6 +45,9 @@ h1 { font-size: 50px;}
 </head>
 <body>
 <div class="tab-container">
+  <a href="https://twooptionsservices.github.io/2options/" class="tab">Home</a>
+
+
   <button class="tab" onclick="openTab('home')">Home</button>
   <button class="tab" onclick="openTab('about')">About</button>
   <button class="tab" onclick="openTab('blog')">Blog</button>
