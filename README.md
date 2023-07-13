@@ -48,6 +48,7 @@ h1 { font-size: 50px;}
   <a href="https://twooptionsservices.github.io/2options/" class="tab">Home</a>
      <a href="blog1.html" class="tab">Blog</a>
     <a href="about.html" class="tab">About Us</a>
+ <a href="https://twooptionsservices.github.io/books/" class="tab">E-Books</a>
 
 </div>
 <h1>2OPTIONS SERVICES</h1>
